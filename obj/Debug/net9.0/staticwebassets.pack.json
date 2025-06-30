@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/lam/C#/api_management/wwwroot/verify-success.html",
+      "PackagePath": "staticwebassets/verify-success.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.api_management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.api_management.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.api_management.props",
+      "PackagePath": "build\\api_management.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.api_management.props",
+      "PackagePath": "buildMultiTargeting\\api_management.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.api_management.props",
+      "PackagePath": "buildTransitive\\api_management.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
